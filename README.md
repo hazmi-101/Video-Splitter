@@ -4,8 +4,8 @@ program sederhana dan penuh kekurangan ini dibuat untuk tujuan pembelajaran dibu
 # cara menggunakan
 ### download
 `$ git clone https://github.com/hazmi-101/Video-Splitter/`
-### jalankan program
-`$ bash run.sh`
 ### PROGRAM INI MEMBUTUHKAN FFMPEG
 download disini:
 https://www.ffmpeg.org/download.html
+### jalankan program
+`$ bash run.sh`
